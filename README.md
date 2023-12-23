@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://github.com/TheGroobi/QR-code-component/main
-- Live Site URL: https://qr-code-component-tau-three.vercel.app
+- Solution URL: [GitHub](https://github.com/TheGroobi/QR-code-component/tree/main)
+- Live Site URL: [Vercel](https://qr-code-component-tau-three.vercel.app)
 
 ## My process
 Creating div containers for background and easy access to editing css later, really helped me during this tutorial.
