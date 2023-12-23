@@ -15,12 +15,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/brave_6BfJwByUsa.png)
+![](./images/brave_6MSpo73iV6.png)
 
 ### Links
 
-- Solution URL: https://github.com/TheGroobi/Groobi-repo/tree/qr-code-component
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/TheGroobi/Groobi-repo/tree/main
+- Live Site URL: https://qr-code-component-tau-three.vercel.app
 
 ## My process
 Creating div containers for background and easy access to editing css later, really helped me during this tutorial.
